@@ -1,0 +1,70 @@
+{
+  "tariff": 12.00,
+  "tickets": [
+    {
+      "registry": "abc1234",
+      "entryTime": "2024-12-19T13:15:30.000Z",
+      "leaveTime": null,
+      "tariff": 10.00,
+      "discountCode": null,
+      "payed": null
+    },
+    {
+      "registry": "bca1234",
+      "entryTime": "2024-12-19T13:15:30.000Z",
+      "leaveTime": "2024-12-19T13:15:30.000Z",
+      "tariff": 10.00,
+      "discountCode": null,
+      "payed": 10.00
+    },
+    {
+      "registry": "akj2456",
+      "entryTime": "2025-01-08T15:15:30.000Z",
+      "leaveTime": "2025-01-08T17:30:30.000Z",
+      "tariff": 12.00,
+      "discountCode": "aa01",
+      "payed": 10.80
+    },
+    {
+      "registry": "lpi3695",
+      "entryTime": "2025-01-08T13:15:30.000Z",
+      "leaveTime": "2025-01-08T14:15:30.000Z",
+      "tariff": 12.00,
+      "discountCode": "aa03",
+      "payed": 1.2
+    },
+    {
+      "registry": "acv1569",
+      "entryTime": "2025-01-09T13:15:30.000Z",
+      "leaveTime": "2025-01-09T13:30:30.000Z",
+      "tariff": 10.00,
+      "discountCode": null,
+      "payed": 10.00
+    },
+    {
+      "registry": "kjl3568",
+      "entryTime": "2025-01-09T13:15:30.000Z",
+      "leaveTime": "2025-01-09T14:15:30.000Z",
+      "tariff": 10.00,
+      "discountCode": null,
+      "payed": 10.00
+    },
+    {
+      "registry": "zxk4884",
+      "entryTime": "2025-01-09T16:10:40.000Z",
+      "leaveTime": null,
+      "tariff": 10.00,
+      "discountCode": null,
+      "payed": null
+    },
+    {
+      "registry": "evg5672",
+      "entryTime": "2025-01-09T16:15:00.000Z",
+      "leaveTime": null,
+      "tariff": 10.00,
+      "discountCode": null,
+      "payed": null
+    }
+  ]
+}
+  

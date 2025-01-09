@@ -1,0 +1,19 @@
+{
+  "agreements": [
+    {
+      "company": "Restaurante SeoUL",
+      "code": "aa01",
+      "discount": 0.1
+    },
+    {
+      "company": "Consultorio SeoUL",
+      "code": "aa02",
+      "discount": 0.5
+    },
+    {
+      "company": "Lava Rapido SeoUL",
+      "code": "aa03",
+      "discount": 0.9
+    }
+  ]
+}
